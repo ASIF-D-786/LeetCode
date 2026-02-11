@@ -18,4 +18,16 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/ASIF-D-786/LeetCode/tree/master/0069-sqrtx) |
+## Array
+|  |
+| ------- |
+| [0078-subsets](https://github.com/ASIF-D-786/LeetCode/tree/master/0078-subsets) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/ASIF-D-786/LeetCode/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/ASIF-D-786/LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
