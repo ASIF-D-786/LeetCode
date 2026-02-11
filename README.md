@@ -21,6 +21,7 @@
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/ASIF-D-786/LeetCode/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/ASIF-D-786/LeetCode/tree/master/0078-subsets) |
 ## Backtracking
 |  |
@@ -30,4 +31,12 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/ASIF-D-786/LeetCode/tree/master/0078-subsets) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/ASIF-D-786/LeetCode/tree/master/0055-jump-game) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/ASIF-D-786/LeetCode/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
