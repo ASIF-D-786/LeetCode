@@ -18,6 +18,7 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/ASIF-D-786/LeetCode/tree/master/0069-sqrtx) |
+| [0222-count-complete-tree-nodes](https://github.com/ASIF-D-786/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 ## Array
 |  |
 | ------- |
@@ -31,6 +32,7 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/ASIF-D-786/LeetCode/tree/master/0078-subsets) |
+| [0222-count-complete-tree-nodes](https://github.com/ASIF-D-786/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -53,6 +55,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/ASIF-D-786/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ASIF-D-786/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ASIF-D-786/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/ASIF-D-786/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -68,6 +71,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/ASIF-D-786/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ASIF-D-786/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ASIF-D-786/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/ASIF-D-786/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 ## Breadth-First Search
 |  |
 | ------- |
