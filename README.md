@@ -9,6 +9,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/ASIF-D-786/LeetCode/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/ASIF-D-786/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/ASIF-D-786/LeetCode/tree/master/0069-sqrtx) |
 ## Recursion
 |  |
@@ -23,6 +24,7 @@
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/ASIF-D-786/LeetCode/tree/master/0055-jump-game) |
+| [0066-plus-one](https://github.com/ASIF-D-786/LeetCode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/ASIF-D-786/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ASIF-D-786/LeetCode/tree/master/0090-subsets-ii) |
 ## Backtracking
