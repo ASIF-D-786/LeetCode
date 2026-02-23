@@ -29,6 +29,7 @@
 | [0066-plus-one](https://github.com/ASIF-D-786/LeetCode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/ASIF-D-786/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ASIF-D-786/LeetCode/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/ASIF-D-786/LeetCode/tree/master/0136-single-number) |
 | [1539-kth-missing-positive-number](https://github.com/ASIF-D-786/LeetCode/tree/master/1539-kth-missing-positive-number) |
 ## Backtracking
 |  |
@@ -41,6 +42,7 @@
 | [0067-add-binary](https://github.com/ASIF-D-786/LeetCode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/ASIF-D-786/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ASIF-D-786/LeetCode/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/ASIF-D-786/LeetCode/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/ASIF-D-786/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0868-binary-gap](https://github.com/ASIF-D-786/LeetCode/tree/master/0868-binary-gap) |
 ## Dynamic Programming
