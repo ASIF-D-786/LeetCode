@@ -76,6 +76,7 @@
 | [0404-sum-of-left-leaves](https://github.com/ASIF-D-786/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/ASIF-D-786/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/ASIF-D-786/LeetCode/tree/master/0572-subtree-of-another-tree) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/ASIF-D-786/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -91,6 +92,7 @@
 | [0404-sum-of-left-leaves](https://github.com/ASIF-D-786/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/ASIF-D-786/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/ASIF-D-786/LeetCode/tree/master/0572-subtree-of-another-tree) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/ASIF-D-786/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Binary Tree
 |  |
 | ------- |
@@ -108,6 +110,7 @@
 | [0404-sum-of-left-leaves](https://github.com/ASIF-D-786/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/ASIF-D-786/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/ASIF-D-786/LeetCode/tree/master/0572-subtree-of-another-tree) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/ASIF-D-786/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Breadth-First Search
 |  |
 | ------- |
