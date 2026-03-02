@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/ASIF-D-786/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0203-remove-linked-list-elements](https://github.com/ASIF-D-786/LeetCode/tree/master/0203-remove-linked-list-elements) |
 ## Math
 |  |
 | ------- |
@@ -16,6 +17,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/ASIF-D-786/LeetCode/tree/master/0050-powx-n) |
+| [0203-remove-linked-list-elements](https://github.com/ASIF-D-786/LeetCode/tree/master/0203-remove-linked-list-elements) |
 ## Binary Search
 |  |
 | ------- |
