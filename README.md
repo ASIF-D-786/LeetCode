@@ -90,6 +90,7 @@
 | [0938-range-sum-of-bst](https://github.com/ASIF-D-786/LeetCode/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/ASIF-D-786/LeetCode/tree/master/0965-univalued-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/ASIF-D-786/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/ASIF-D-786/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -113,6 +114,7 @@
 | [0938-range-sum-of-bst](https://github.com/ASIF-D-786/LeetCode/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/ASIF-D-786/LeetCode/tree/master/0965-univalued-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/ASIF-D-786/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/ASIF-D-786/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Binary Tree
 |  |
 | ------- |
@@ -139,6 +141,7 @@
 | [0938-range-sum-of-bst](https://github.com/ASIF-D-786/LeetCode/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/ASIF-D-786/LeetCode/tree/master/0965-univalued-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/ASIF-D-786/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/ASIF-D-786/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -172,6 +175,7 @@
 | [0099-recover-binary-search-tree](https://github.com/ASIF-D-786/LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ASIF-D-786/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/ASIF-D-786/LeetCode/tree/master/0938-range-sum-of-bst) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/ASIF-D-786/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -192,4 +196,8 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ASIF-D-786/LeetCode/tree/master/0239-sliding-window-maximum) |
+## Sorting
+|  |
+| ------- |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/ASIF-D-786/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 <!---LeetCode Topics End-->
