@@ -88,6 +88,7 @@
 | [0404-sum-of-left-leaves](https://github.com/ASIF-D-786/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/ASIF-D-786/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/ASIF-D-786/LeetCode/tree/master/0572-subtree-of-another-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/ASIF-D-786/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/ASIF-D-786/LeetCode/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/ASIF-D-786/LeetCode/tree/master/0965-univalued-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/ASIF-D-786/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -113,6 +114,7 @@
 | [0404-sum-of-left-leaves](https://github.com/ASIF-D-786/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/ASIF-D-786/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/ASIF-D-786/LeetCode/tree/master/0572-subtree-of-another-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/ASIF-D-786/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/ASIF-D-786/LeetCode/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/ASIF-D-786/LeetCode/tree/master/0965-univalued-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/ASIF-D-786/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -141,6 +143,7 @@
 | [0404-sum-of-left-leaves](https://github.com/ASIF-D-786/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/ASIF-D-786/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/ASIF-D-786/LeetCode/tree/master/0572-subtree-of-another-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/ASIF-D-786/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/ASIF-D-786/LeetCode/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/ASIF-D-786/LeetCode/tree/master/0965-univalued-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/ASIF-D-786/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -157,6 +160,7 @@
 | [0112-path-sum](https://github.com/ASIF-D-786/LeetCode/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/ASIF-D-786/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/ASIF-D-786/LeetCode/tree/master/0404-sum-of-left-leaves) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/ASIF-D-786/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/ASIF-D-786/LeetCode/tree/master/0965-univalued-binary-tree) |
 ## String Matching
 |  |
