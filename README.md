@@ -171,6 +171,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/ASIF-D-786/LeetCode/tree/master/0067-add-binary) |
+| [0242-valid-anagram](https://github.com/ASIF-D-786/LeetCode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/ASIF-D-786/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0572-subtree-of-another-tree](https://github.com/ASIF-D-786/LeetCode/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
@@ -214,5 +215,10 @@
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/ASIF-D-786/LeetCode/tree/master/0242-valid-anagram) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/ASIF-D-786/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
+## Hash Table
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/ASIF-D-786/LeetCode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
