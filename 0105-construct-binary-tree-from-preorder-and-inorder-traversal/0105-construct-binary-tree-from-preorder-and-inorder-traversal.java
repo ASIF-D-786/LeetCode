@@ -17,15 +17,15 @@ class Solution {
     Map <Integer, Integer> map;
     private int idx;
     int[] preorder;
-    private TreeNode helper( int start,int end){
+    private TreeNode helper(int[] inorder, int start,int end){
         if(start>end){
             return null;
         }
         int cur=preorder[idx++];
         int i=map.get(cur);
         TreeNode root=new TreeNode(cur);
-        root.left=helper(start,i-1);
-        root.right=helper(i+1,end);
+        root.left=helper(inorder,start,i-1);
+        root.right=helper(inorder,i+1,end);
 
         return root;
     }
@@ -36,6 +36,6 @@ class Solution {
         for(int i=0;i<inorder.length;i++){
             map.put(inorder[i],i);
         }
-        return helper(0,inorder.length-1);
+        return helper(inorder,0,inorder.length-1);
     }
 }
