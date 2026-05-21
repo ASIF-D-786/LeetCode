@@ -14,6 +14,7 @@
 | [0066-plus-one](https://github.com/ASIF-D-786/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/ASIF-D-786/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/ASIF-D-786/LeetCode/tree/master/0069-sqrtx) |
+| [0204-count-primes](https://github.com/ASIF-D-786/LeetCode/tree/master/0204-count-primes) |
 ## Recursion
 |  |
 | ------- |
@@ -36,6 +37,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ASIF-D-786/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ASIF-D-786/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0136-single-number](https://github.com/ASIF-D-786/LeetCode/tree/master/0136-single-number) |
+| [0204-count-primes](https://github.com/ASIF-D-786/LeetCode/tree/master/0204-count-primes) |
 | [0239-sliding-window-maximum](https://github.com/ASIF-D-786/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [1539-kth-missing-positive-number](https://github.com/ASIF-D-786/LeetCode/tree/master/1539-kth-missing-positive-number) |
 ## Backtracking
@@ -231,4 +233,12 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ASIF-D-786/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ASIF-D-786/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0242-valid-anagram](https://github.com/ASIF-D-786/LeetCode/tree/master/0242-valid-anagram) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ASIF-D-786/LeetCode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ASIF-D-786/LeetCode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
